@@ -1,7 +1,10 @@
 # Домашнее задание к занятию "`Название занятия`" - `Медведев
 ### Задание 1
 
-![image](https://github.com/Pykaaa/sys-pattern-homework/assets/142039583/ad6fd383-234a-4603-8187-0bdc55bee55c)
+![image](https://github.com/Pykaaa/sys-pattern-homework/assets/142039583/dfbaa92b-367c-4ef5-9e65-09645d591ce7)
+![image](https://github.com/Pykaaa/sys-pattern-homework/assets/142039583/ac1907a7-f400-4917-bad1-663e1a11aeae)
+![image](https://github.com/Pykaaa/sys-pattern-homework/assets/142039583/8af383a6-4d36-4317-b5b9-bdc82633c5b8)
+
 
 ### Задание 2
 

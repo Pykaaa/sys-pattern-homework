@@ -7,9 +7,8 @@
 
 
 ### Задание 2
+![image](https://github.com/Pykaaa/sys-pattern-homework/assets/142039583/a2d3abc2-6f06-4b53-b1a6-2f94b5403a91)
 
-![image](https://github.com/Pykaaa/sys-pattern-homework/assets/142039583/9efd374f-84f8-4bb9-9562-458ca00ef334)
-![image](https://github.com/Pykaaa/sys-pattern-homework/assets/142039583/1225e651-b56e-4dd2-9784-11919fff75b3)
 
 ### Задание 3
 
